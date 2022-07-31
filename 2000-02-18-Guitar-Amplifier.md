@@ -23,7 +23,7 @@ Arthur Ball
 Tyler Shaffer
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Guitar-Amplifier"" >Guitar-Amplifier</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Guitar-Amplifier" >Guitar-Amplifier</a>
 
 ## Photo
 
