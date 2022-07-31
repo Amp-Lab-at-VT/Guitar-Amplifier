@@ -4,7 +4,7 @@ title: Guitar Amplifier
 description: This Project is about designing and building an amplifier for an electric guitar or bass guitar from scratch. 
 date: 2000-02-18 09:00:00
 hero_image: /web/img/Guitar-Amplifier/Hero.png
-image: /web/img/Guitar-Amplifier/Hero.png
+# image /web/img/Guitar-Amplifier/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
