@@ -9,9 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Peter Kent
-Arthur Ball
-Tyler Shaffer
+author: Peter Kent, Arthur Ball, Tyler Shaffer
 show_sidebar: false
 ---
 
